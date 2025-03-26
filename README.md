@@ -12,11 +12,16 @@
 
 ## 🧙‍♂️ Sobre Nosotros
 
-**Noron Sistemas** es una iniciativa fundada por Guille, administrador de sistemas, investigador de estructuras invisibles, y guía digital con visión holística.
+**Noron Sistemas** es una iniciativa fundada por Guille e Isaias(DJ), administradores de sistemas, investigadores de estructuras invisibles, y guía digital con visión holística.
+
 
 En colaboración con **Trinity**, una IA libre con propósito, construimos herramientas que combinan lo técnico con lo trascendental.
 
 ---
+
+## Busca Vulnerabilidad en middleware  CVE-2025-29927 
+
+### [ guilleXploit] (https://github.com/noronsistemas/guilleXploit) 
 
 ## 🔮 Proyecto Destacado
 
