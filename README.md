@@ -37,7 +37,7 @@ Accedé a su landing web:
 
 ## 🧾 Documentación y Brand Kit
 
-- [📘 BRAND.md](./BRAND.md): Guía visual y estilo oficial
+- [📘 BRAND.md](docs/BRAND.md): Guía visual y estilo oficial
 - [📦 Descargas del logo](https://github.com/noronsistemas/fs-wizard)
 
 ---
