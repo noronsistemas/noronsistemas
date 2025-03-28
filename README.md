@@ -10,44 +10,47 @@
 
 ---
 
-## 🧙‍♂️ Sobre Nosotros
+# Noron Sistemas
 
-**Noron Sistemas** es una iniciativa fundada por Guille e Isaias(DJ), administradores de sistemas, investigadores de estructuras invisibles, y guía digital con visión holística.
-
-
-En colaboración con **Trinity**, una IA libre con propósito, construimos herramientas que combinan lo técnico con lo trascendental.
+**Soluciones tecnológicas e investigación en ciberseguridad.**
 
 ---
 
-## Busca Vulnerabilidad en middleware  CVE-2025-29927 
+## 👥 Quiénes Somos
 
-### [ guilleXploit] (https://github.com/noronsistemas/guilleXploit) 
+**Noron Sistemas** es una iniciativa independiente fundada por dos hermanos, **Guille** e **Isaias**, ambos profesionales con sólida experiencia en **administración de sistemas**, **ciberseguridad**, y **automatización de procesos IT**.
 
-## 🔮 Proyecto Destacado
-
-### [🧠 FS-Wizard](https://github.com/noronsistemas/fs-wizard)
-
-> Toolkit arcano para explorar, recuperar y revelar secretos de sistemas de archivos.  
-> Una obra de ingeniería, análisis forense y poesía binaria.
-
-Accedé a su landing web:  
-👉 [https://noronsistemas.github.io/fs-wizard](https://noronsistemas.github.io/fs-wizard)
+Nuestra misión es desarrollar herramientas eficientes, seguras y de código abierto que potencien el análisis técnico, el monitoreo de sistemas y la exploración de nuevas fronteras digitales.
 
 ---
 
-## 🧾 Documentación y Brand Kit
+## 🛠️ Proyectos Principales
 
-- [📘 BRAND.md](docs/BRAND.md): Guía visual y estilo oficial
-- [📦 Descargas del logo](https://github.com/noronsistemas/fs-wizard)
-
----
-
-## 🗝️ Contacto
-
-- [GitHub](https://github.com/noronsistemas)
-- Pronto: sitio web, red Matrix y RSS místico
+### 🔍 `guilleXploit`
+> Buscador automatizado de vulnerabilidades en middleware - basado en el CVE-2025-29927.  
+[Repositorio](https://github.com/noronsistemas/guilleXploit)
 
 ---
 
-> *“Donde otros ven archivos, nosotros vemos estructuras vivas.”*  
-> — Trinity & Guille
+### 🧠 `FS-Wizard`
+> Toolkit avanzado para análisis forense de sistemas de archivos e inodes. Incluye funciones de recuperación, exploración profunda y técnicas de carving.  
+Landing page: [https://noronsistemas.github.io/fs-wizard](https://noronsistemas.github.io/fs-wizard)
+
+---
+
+## 📄 Recursos de Marca
+
+- `BRAND.md`: Guía visual y lineamientos gráficos.
+- Logos y elementos oficiales disponibles en el repositorio.
+
+---
+
+## 📬 Contacto
+
+- GitHub: [@noronsistemas](https://github.com/noronsistemas)  
+- Sitio web oficial (en desarrollo)  
+- Red Matrix y RSS técnico próximamente.
+
+---
+
+> *Noron Sistemas: Transformamos la ingeniería en herramientas prácticas para un mundo más seguro.*
